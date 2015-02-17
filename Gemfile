@@ -15,6 +15,8 @@ gem 'rake'
 
 gem 'shotgun'
 gem 'twilio-ruby'
+gem 'yelp'
+gem 'dotenv'
 
 group :test do
   gem 'shoulda-matchers'
